@@ -1,0 +1,81 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+"T1","TWISTO","T1","HÉROUVILLE Saint-Clair - IFS Jean Vilar",,0,,23a638,ffffff,1001
+"T2","TWISTO","T2","CAEN Campus 2 - CAEN Presqu'île",,0,,e73132,ffffff,1002
+"T3","TWISTO","T3","CAEN Château Quatrans - FLEURY Hauts de l'Orne",,0,,009adf,ffffff,1003
+"NVCV","TWISTO","NVCV","CAEN Palais des Sports / CAEN Château Quatrans",,3,,e84133,ffffff,1004
+"1","TWISTO","1","CAEN Chemin Vert - MONDEVILLE Centre Commercial",,3,,d8005b,ffffff,1005
+"2","TWISTO","2","CAEN Mémorial - CAEN Beaulieu Brazza",,3,,0975b8,ffffff,1006
+"3","TWISTO","3","CARPIQUET Aéroport - IFS Jean Vilar",,3,,c4ce10,000000,1007
+"4","TWISTO","4","HÉROUVILLE Centre Commercial - IFS Jean Vilar",,3,,da609f,ffffff,1008
+"5","TWISTO","5","HÉROUVILLE Sphère / BIEVILLE Stade - CAEN Théâtre / CAEN Place de la Mare",,3,,642580,ffffff,1009
+"6A","TWISTO","6A","HÉROUVILLE Saint-Clair",,3,,fcdd19,000000,1010
+"6B","TWISTO","6B","HÉROUVILLE Saint-Clair",,3,,fcdd19,000000,1011
+"7","TWISTO","7","BIÉVILLE ZA au Village / CAMBES Le Parc - CAEN Théâtre  / CAEN Place de la Mare",,3,,8d5e2a,ffffff,1012
+"8","TWISTO","8","HEROUVILLE Sphère - CAEN Poincaré",,3,,00804b,ffffff,1013
+"9","TWISTO","9","ST-GERMAIN Place des Canadiens - COLOMBELLES Mairie",,3,,86bce7,000000,1014
+"10","TWISTO","10","BLAINVILLE Parc - MONDEVILLE Charlotte Corday",,3,,b0368c,ffffff,1015
+"11","TWISTO","11","BRETTEVILLE Koenig - CUVERVILLE Champ Picot",,3,,ea5b0c,ffffff,1017
+"11EX","TWISTO","11EX","CUVERVILLE Champ Picot - CAEN Tour Leroy",,3,,f39869,000000,1018
+"12","TWISTO","12","LION-SUR-MER Plage - CAEN Gare SNCF",,3,,009d99,ffffff,1019
+"20","TWISTO","20","CAEN Calvaire St-Pierre - ROTS Bonny",,3,,f59c00,000000,1020
+"21","TWISTO","21","ST GERMAIN Ardenne - MONDEVILLE Village Oxylane",,3,,153f8d,ffffff,1021
+"22","TWISTO","22","LION-SUR-MER Plage - CAEN Calvaire St-Pierre",,3,,f3a3b9,000000,1022
+"23","TWISTO","23","CAIRON Château / SAINT-CONTEST Buron - LOUVIGNY Michelet",,3,,ef7a8c,ffffff,1023
+"30","TWISTO","30","CAEN Gare SNCF - MONDEVILLE Centre Commercial",,3,,d186b2,000000,1024
+"31","TWISTO","31","CAEN Gare SNCF - TROARN Bures / TROARN Stade",,3,,969328,ffffff,1025
+"32","TWISTO","32","VERSON Grand Bois - CAEN Tour Leroy",,3,,82c491,000000,1026
+"34","TWISTO","34","ST-ANDRE Luxembourg - CAEN Lycée Fresnel",,3,,7f2110,ffffff,1027
+"40","TWISTO","40","CAEN Poincaré - MONDEVILLE Lumière",,3,,7d6fa5,ffffff,1028
+"42","TWISTO","42","COLOMBELLES ZA - HEROUVILLE Saint-Clair",,3,,7d6fa5,ffffff,1029
+"100","TWISTO","100","AUTHIE Brunet - CAEN Place du Canada",,3,,702283,ffffff,1030
+"101","TWISTO","101","BLAINVILLE Parc - OUISTREHAM Collège Monnet",,3,,702283,ffffff,1031
+"102","TWISTO","102","BRETTEVILLE Koenig - CAEN Collège Moulin",,3,,702283,ffffff,1032
+"103","TWISTO","103","SAINTE-CROIX Hôtel Fortuné - CAEN Calvaire saint-Pierre",,3,,702283,ffffff,1033
+"104","TWISTO","104","VILLONS Coopérative - CAEN Cité U Lebisey",,3,,702283,ffffff,1034
+"107","TWISTO","107","CAEN Hôtel de Ville - CAEN Lycée Sainte-Ursule",,3,,702283,ffffff,1035
+"109","TWISTO","109","CARPIQUET Aéroport - CAEN Lycée de Gaulle",,3,,702283,ffffff,1036
+"110","TWISTO","110","COLOMBELLES Mairie - CAEN Rostand Fresnel",,3,,702283,ffffff,1037
+"111","TWISTO","111","COLOMBELLES Mandela - MONDEVILLE Collège Guillemot",,3,,702283,ffffff,1038
+"112","TWISTO","112","CUVERVILLE Champ Picot - CAEN Rostand Fresnel",,3,,702283,ffffff,1039
+"113","TWISTO","113","ÉTERVILLE Le Rocreuil - VERSON Collège Prévert",,3,,702283,ffffff,1040
+"114","TWISTO","114","FLEURY Château d'Eau - CAEN Rostand Fresnel",,3,,702283,ffffff,1041
+"115","TWISTO","115","CUVERVILLE Callouins - CAEN Rostand Fresnel",,3,,702283,ffffff,1042
+"116","TWISTO","116","HÉROUVILLE Lebisey - HÉROUVILLE Collège Mandela",,3,,702283,ffffff,1043
+"118","TWISTO","118","LOUVIGNY Michelet - FLEURY Collège Hawking",,3,,702283,ffffff,1044
+"119","TWISTO","119","MATHIEU Les Vikings - CAEN Copernic",,3,,702283,ffffff,1045
+"120","TWISTO","120","COLOMBELLES Place des Tilleuls - HÉROUVILLE Allende",,3,,702283,ffffff,1046
+"121","TWISTO","121","COLOMBELLES Lazzaro / Mairie - MONDEVILLE Collège Guillemot",,3,,702283,ffffff,1047
+"122","TWISTO","122","CAEN Calvaire Saint-Pierre - LION Plage",,3,,702283,ffffff,1048
+"123","TWISTO","123","SAINT-AUBIN Église - BLAINVILLE Langevin Wallon",,3,,702283,ffffff,1049
+"124","TWISTO","124","SAINT-AUBIN Église - CAEN Croix Guérin",,3,,702283,ffffff,1050
+"125","TWISTO","125","SAINT-CONTEST Eglise - CAEN Cité U Lébisey",,3,,702283,ffffff,1051
+"126","TWISTO","126","SAINT-CONTEST Vellerie - CAEN Collège Monod",,3,,702283,ffffff,1052
+"127","TWISTO","127","CAEN Cité U Lebisey - VILLONS Coopérative",,3,,702283,ffffff,1053
+"128","TWISTO","128","HERMANVILLE Isaville - CAEN Université",,3,,702283,ffffff,1054
+"130","TWISTO","130","THUE ET MUE Brouay Mairie - CAEN Théâtre",,3,,702283,ffffff,1055
+"131","TWISTO","131","TROARN Collège Montgomeri - TROARN Bures Bourg",,3,,702283,ffffff,1056
+"133","TWISTO","133","THUE ET MUE Cheux Bourg - CAEN Gare SNCF",,3,,702283,ffffff,1057
+"134","TWISTO","134","CAEN Aviation - SOLIERS / GRENTHEVILLE / ST AIGNAN",,3,,702283,ffffff,1058
+"135","TWISTO","135","LE CASTELET St Aignan Mairie - CAEN Gare SNCF",,3,,702283,ffffff,1059
+"136","TWISTO","136","TROARN - HEROUVILLE Allende",,3,,702283,ffffff,1060
+"137","TWISTO","137","BOURGUEBUS La Hogue - IFS Collège Senghor",,3,,702283,ffffff,1061
+"137A","TWISTO","137A","IFS Collège Senghor - GRENTHEVILLE le Hameau",,3,,702283,ffffff,1062
+"137B","TWISTO","137B","IFS Collège Senghor - BOURGUEBUS La Hogue",,3,,702283,ffffff,1063
+"138","TWISTO","138","SOLIERS Hameau du Four - IFS Collège Senghor",,3,,702283,ffffff,1064
+"138C","TWISTO","138C","IFS Collège Senghor - SOLIERS Hameau du Four",,3,,702283,ffffff,1065
+"138D","TWISTO","138D","IFS Collège Senghor - SOLIERS Hameau du Four",,3,,702283,ffffff,1066
+"1004440","40","Nomad 101","BIEVILLE BEUVILLE La Bijude - CAEN Gare",,3,,e73742,000000,8001
+"1004441","40","Nomad 102","CAEN Gare Routière - MATHIEU Equipement",,3,,e73742,000000,8002
+"1004442","40","Nomad 103","CAEN Gare Routière - LE FRESNE CAMILLY Le Bout Renard",,3,,e73742,000000,8003
+"1004445","40","Nomad 105","ETERVILLE Centre - CAEN Gare Routière",,3,,e73742,000000,8004
+"1004444","40","Nomad 104","VERSON Avenue du Parc - CAEN Place Courtonne",,3,,e73742,000000,8005
+"1004447","40","Nomad 107","ROCQUANCOURT Bourg - CAEN Gare Routière",,3,,e73742,000000,8006
+"1004448","40","Nomad 108","IFS Charité - CAEN Gare Routière",,3,,e73742,000000,8007
+"1004450","40","Nomad 109","MONDEVILLE Centre Commercial Sud - CAEN Gare Routière",,3,,e73742,000000,8008
+"1004451","40","Nomad 111A","Aller - COLOMBELLES Lazzaro - CAEN Gare Routière",,3,,e73742,000000,8009
+"1004454","40","Nomad 114","THUE ET MUE Putôt en Bessin Bourg - CAEN Gare Routière",,3,,e73742,000000,8010
+"1004477","40","Nomad 115","TOURVILLE-SUR-ODON Pressoir - CAEN Gare Routière",,3,,e73742,000000,8011
+"1004455","40","Nomad 116","TOURVILLE-SUR-ODON Pressoir - CAEN Gare Routière",,3,,e73742,000000,8012
+"1004456","40","Nomad 117","FLEURY SUR ORNE Basse Allemagne - CAEN Gare Routière",,3,,e73742,000000,8013
+"1004457","40","Nomad 118","LE CASTELET La Jalousie - CAEN Gare Routière",,3,,e73742,000000,8014
+"1004458","40","Nomad 119","TROARN Stade - CAEN Gare Routière",,3,,e73742,000000,8015
